@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Datasets (DO NOT COMMIT)
+FoodData_Central_foundation_food_csv/
+dataset/
+food-101/
+food-101.tar.gz
+
+# Torch accidental folder
+torch/
+
+# OS
+.DS_Store
+
+.env
